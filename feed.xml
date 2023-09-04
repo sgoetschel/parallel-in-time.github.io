@@ -3,8 +3,53 @@
   <channel>
     <title>Parallel-in-Time</title>
     <description></description>
-    <link>http://parallelintime.org/</link>
-    <atom:link href="http://parallelintime.org/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://parallel-in-time.org/</link>
+    <atom:link href="http://parallel-in-time.org/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>PinT 2021 Workshop</title>
+        <description>&lt;p&gt;Registration for virtual PinT 2021 - &lt;a href=&quot;/events/10th-pint-workshop/&quot;&gt;10th Workshop on Parallel-in-time integration&lt;/a&gt; is open. 
+There is no cost to attend the workshop. Attendees will need to pre-register to participate. Please visit thhe conference website at  &lt;a href=&quot;https://conferences.math.mtu.edu&quot;&gt;https://conferences.math.mtu.edu&lt;/a&gt;
+for more information.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+</description>
+        <pubDate>Fri, 11 Jun 2021 14:07:00 +0000</pubDate>
+        <link>http://parallel-in-time.org/events/2021/06/11/pint2021-registration.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/events/2021/06/11/pint2021-registration.html</guid>
+      </item>
+    
+      <item>
+        <title>PinT lecture at ENLA Seminar</title>
+        <description>&lt;p&gt;Martin Gander gave a very nice talk on a linear algebra approach to time parallelisation as part of the
+European Numerical Linear Algebra (ENLA) online seminar. The video for the talk can be 
+found at: &lt;a href=&quot;https://www.youtube.com/watch?v=DfY_w6KnfhU&quot;&gt;https://www.youtube.com/watch?v=DfY_w6KnfhU&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A full list of past ENLA lectures can be found at
+&lt;a href=&quot;https://www.youtube.com/channel/UCl3AmvN5JwD4FUJn2aLKDZQ&quot;&gt;https://www.youtube.com/channel/UCl3AmvN5JwD4FUJn2aLKDZQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+</description>
+        <pubDate>Thu, 11 Jun 2020 14:07:00 +0000</pubDate>
+        <link>http://parallel-in-time.org/events/2020/06/11/gander_enla.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/events/2020/06/11/gander_enla.html</guid>
+      </item>
+    
+      <item>
+        <title>PinT 2020 Workshop</title>
+        <description>&lt;p&gt;Registration for virtual PinT 2020 - &lt;a href=&quot;/events/9th-pint-workshop/&quot;&gt;9th Workshop on Parallel-in-time integration&lt;/a&gt; is open. 
+There is no cost to attend the workshop. Attendees will need to pre-register at &lt;a href=&quot;https://michigantech.zoom.us/meeting/register/upUsd-6hqj4iGNa05WE3Ey2RkX26G6K7-Q&quot;&gt;https://michigantech.zoom.us/meeting/register/upUsd-6hqj4iGNa05WE3Ey2RkX26G6K7-Q&lt;/a&gt;
+to participate.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+</description>
+        <pubDate>Mon, 18 May 2020 14:07:00 +0000</pubDate>
+        <link>http://parallel-in-time.org/events/2020/05/18/pint2020-registration.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/events/2020/05/18/pint2020-registration.html</guid>
+      </item>
     
       <item>
         <title>PINT 2019 Workshop</title>
@@ -14,8 +59,8 @@
 
 </description>
         <pubDate>Sat, 03 Feb 2018 14:07:00 +0000</pubDate>
-        <link>http://parallelintime.org/events/2018/02/03/pint2019-registration.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/events/2018/02/03/pint2019-registration.html</guid>
+        <link>http://parallel-in-time.org/events/2018/02/03/pint2019-registration.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/events/2018/02/03/pint2019-registration.html</guid>
       </item>
     
       <item>
@@ -32,8 +77,8 @@
 
 </description>
         <pubDate>Sat, 03 Feb 2018 14:07:00 +0000</pubDate>
-        <link>http://parallelintime.org/jobs/2018/02/03/pint-at-siam-an.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/jobs/2018/02/03/pint-at-siam-an.html</guid>
+        <link>http://parallel-in-time.org/jobs/2018/02/03/pint-at-siam-an.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/jobs/2018/02/03/pint-at-siam-an.html</guid>
       </item>
     
       <item>
@@ -44,8 +89,8 @@
 
 </description>
         <pubDate>Sat, 03 Feb 2018 14:07:00 +0000</pubDate>
-        <link>http://parallelintime.org/jobs/2018/02/03/pint-ws-submission.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/jobs/2018/02/03/pint-ws-submission.html</guid>
+        <link>http://parallel-in-time.org/jobs/2018/02/03/pint-ws-submission.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/jobs/2018/02/03/pint-ws-submission.html</guid>
       </item>
     
       <item>
@@ -57,8 +102,8 @@
 &lt;p&gt;Thanks to Xiao-Chuan Cai and Hans De Sterck for putting together a mini symposium on &lt;em&gt;iterative solvers for parallel-in-time integration&lt;/em&gt; at SIAM ALA 2018 in Hong Kong. After PinT &lt;a href=&quot;/events/2016/12/23/siamcse-ms.html&quot;&gt;being present&lt;/a&gt; in all SIAM PP and SIAM CSE conferences since 2013, including this year’s &lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=63542&quot;&gt;SIAM Parallel Processing 2018&lt;/a&gt;, this is the first time it features prominently at SIAM ALA.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Feb 2018 14:07:00 +0000</pubDate>
-        <link>http://parallelintime.org/jobs/2018/02/03/pint-siamla.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/jobs/2018/02/03/pint-siamla.html</guid>
+        <link>http://parallel-in-time.org/jobs/2018/02/03/pint-siamla.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/jobs/2018/02/03/pint-siamla.html</guid>
       </item>
     
       <item>
@@ -70,8 +115,8 @@
 &lt;p&gt;Please &lt;a href=&quot;/events/7th-pint-workshop/&quot;&gt;see here&lt;/a&gt; for additional information.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Oct 2017 23:00:00 +0000</pubDate>
-        <link>http://parallelintime.org/events/2017/10/25/7th-pint-workshop-announced.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/events/2017/10/25/7th-pint-workshop-announced.html</guid>
+        <link>http://parallel-in-time.org/events/2017/10/25/7th-pint-workshop-announced.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/events/2017/10/25/7th-pint-workshop-announced.html</guid>
       </item>
     
       <item>
@@ -83,8 +128,8 @@
 &lt;p&gt;You can find information about how to submit an abstract &lt;a href=&quot;https://www.ics.usi.ch/index.php/news/248-6th-workshop-on-parallel-in-time-methods-in-monte-verita&quot;&gt;here&lt;/a&gt;. The workshop will take place from 23 to 27 October 2017 in Ascona, Switzerland. The registration fee is 500 CHF and includes accommodation in the &lt;a href=&quot;http://www.monteverita.org/en/24/conference-centre-monte-verita.aspx&quot;&gt;Monte Verita Conference Centre&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Jul 2017 07:00:00 +0000</pubDate>
-        <link>http://parallelintime.org/events/2017/07/04/6th-pint-submission.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/events/2017/07/04/6th-pint-submission.html</guid>
+        <link>http://parallel-in-time.org/events/2017/07/04/6th-pint-submission.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/events/2017/07/04/6th-pint-submission.html</guid>
       </item>
     
       <item>
@@ -96,55 +141,8 @@
 &lt;p&gt;Thanks to Adam for producing a &lt;a href=&quot;https://en.wikipedia.org/wiki/File:Parareal_Animation.ogv&quot;&gt;very nice animation of Parareal&lt;/a&gt; and publishing it under a &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/deed.en&quot;&gt;CC BY-SA 4.0&lt;/a&gt; license and making it available for the &lt;a href=&quot;https://en.wikipedia.org/wiki/Parareal&quot;&gt;Parareal&lt;/a&gt; entry on Wikipedia. You can use the video in your talks to introduce Parareal under the condition that you credit Adam as the creator.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Jun 2017 10:00:00 +0000</pubDate>
-        <link>http://parallelintime.org/events/2017/06/24/apint-video.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/events/2017/06/24/apint-video.html</guid>
-      </item>
-    
-      <item>
-        <title>PinT in SIAM News</title>
-        <description>&lt;p&gt;Parallel-in-time integration was mentioned prominently in the recent SIAM News, see &lt;a href=&quot;https://sinews.siam.org/Details-Page/climate-prediction-exascale-computing-and-time-parallelism&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;In the current issue of SIAM News (Volume 50, Number 04, May 2017), parallel-in-time integration was mentioned in the research article “&lt;a href=&quot;https://sinews.siam.org/Details-Page/climate-prediction-exascale-computing-and-time-parallelism&quot;&gt;Climate Predictions, Exascale Computing, and Time Parallelism&lt;/a&gt;”” by Paul Davis.
-Based on Beth Wingate’s &lt;a href=&quot;/events/2016/07/19/siamcse.html&quot;&gt;plenary talk&lt;/a&gt; at SIAM CSE 2017, he discusses opportunities, challenges and first results, in particular with respect to climate simulations.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 May 2017 10:00:00 +0000</pubDate>
-        <link>http://parallelintime.org/events/2017/05/30/siam-news.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/events/2017/05/30/siam-news.html</guid>
-      </item>
-    
-      <item>
-        <title>Parallel-in-time Twitter hashtag</title>
-        <description>&lt;p&gt;Parallel-in-time goes Twitter.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;If you are using Twitter, you can use the hash tag &lt;a href=&quot;https://twitter.com/hashtag/parallelintime?src=hash&quot;&gt;#parallelintime&lt;/a&gt; for everything that relates to PINT integration.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Jan 2017 10:17:44 +0000</pubDate>
-        <link>http://parallelintime.org/events/2017/01/17/pint-hashtag.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/events/2017/01/17/pint-hashtag.html</guid>
-      </item>
-    
-      <item>
-        <title>Mini symposium at SIAM CSE 2017</title>
-        <description>&lt;p&gt;A &lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=60892&quot;&gt;mini symposium&lt;/a&gt; about parallel-in-time integration with 8 talks will take place at the &lt;a href=&quot;https://www.siam.org/meetings/cse17/&quot;&gt;SIAM Conference on Computational Science and Engineering&lt;/a&gt; 2017.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;In addition to Beth Wingate’s &lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=62108&quot;&gt;plenary talk&lt;/a&gt;, parallel-in-time integration with also be present at next year’s SIAM CSE conference in the form of a mini symposium with 8 presentations illustrating recent advances in the field.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=60892&quot;&gt;Part I&lt;/a&gt; will be on Tuesday, February 28 from 9:10 AM to 10:50 AM in Room 211&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=60893&quot;&gt;Part II&lt;/a&gt; will be on Tuesday, February 28 from 1:30 PM to 3:10 PM in Room 211.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This continues the strong presence of PINT at SIAM conferences, with mini symposia being held at the last &lt;a href=&quot;http://www.parallelintime.org/events/2015/12/17/siampp-ms.html&quot;&gt;SIAM PP 2016&lt;/a&gt;, &lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=19996&quot;&gt;SIAM CSE 2015&lt;/a&gt;, &lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=17906&quot;&gt;SIAM PP 2014&lt;/a&gt; and &lt;a href=&quot;http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=15471&quot;&gt;SIAM CSE 2013&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Dec 2016 07:50:44 +0000</pubDate>
-        <link>http://parallelintime.org/events/2016/12/23/siamcse-ms.html</link>
-        <guid isPermaLink="true">http://parallelintime.org/events/2016/12/23/siamcse-ms.html</guid>
+        <link>http://parallel-in-time.org/events/2017/06/24/apint-video.html</link>
+        <guid isPermaLink="true">http://parallel-in-time.org/events/2017/06/24/apint-video.html</guid>
       </item>
     
   </channel>

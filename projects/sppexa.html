@@ -6,7 +6,7 @@
   <title>ExaSolvers</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
-  <link rel="canonical" href="http://parallelintime.org/projects/sppexa.html">
+  <link rel="canonical" href="http://parallel-in-time.org/projects/sppexa.html">
 
   <link type="text/css" rel="stylesheet" href="/assets/main-76819aa89d75930ac06ef9967c01d19269aaad5bd78e7a1bee6bb4df855d04cb.css">
   <script type="text/javascript" src="/assets/vendor/jquery-1.12.0-86a3022f12ca44acf0d7da548569f4168279fe7b115508fbe4cf4af00498eb4b.js"></script>
@@ -111,6 +111,10 @@
       <a href="/projects/pitflow.html">PiT Flow</a>
     </li>
   
+    <li >
+      <a href="/projects/time_x.html">TIME-X</a>
+    </li>
+  
 
 
   </ul>
@@ -192,6 +196,7 @@ diffusion problems on complex domains.</p>
       <div class="col-md-12">
         <pre class="abstract">@article{KreienbuehlEtAl2015,
   author = {Kreienbuehl, Andreas and Naegel, Arne and Ruprecht, Daniel and Speck, Robert and Wittum, Gabriel and Krause, Rolf},
+  doi = {10.1007/s00791-015-0246-y},
   issue = {2},
   journal = {Computing and Visualization in Science},
   pages = {99--108},
@@ -216,17 +221,17 @@ diffusion problems on complex domains.</p>
         </div>
         <div class="modal-body">
           In-silico investigation of skin permeation is an important but also computationally demanding problem.
-		To resolve all scales involved in full detail will not only require exascale computing capacities but also
-		suitable parallel algorithms.
-		This article investigates the applicability of the time-parallel Parareal algorithm to a brick and mortar setup,
-		a precursory problem to skin permeation.
-		The C++ library Lib4PrM implementing Parareal is combined with the UG4 simulation framework, which provides the
-		spatial discretization and parallelization.
-		The combination’s performance is studied with respect to convergence and speedup.
-		It is confirmed that anisotropies in the domain and jumps in diffusion coefficients only have a minor impact on
-		Parareal’s convergence.
-		The influence of load imbalances in time due to differences in number of iterations required by the spatial
-		solver as well as spatio-temporal weak scaling is discussed.
+To resolve all scales involved in full detail will not only require exascale computing capacities but also
+suitable parallel algorithms.
+This article investigates the applicability of the time-parallel Parareal algorithm to a brick and mortar setup,
+a precursory problem to skin permeation.
+The C++ library Lib4PrM implementing Parareal is combined with the UG4 simulation framework, which provides the
+spatial discretization and parallelization.
+The combination’s performance is studied with respect to convergence and speedup.
+It is confirmed that anisotropies in the domain and jumps in diffusion coefficients only have a minor impact on
+Parareal’s convergence.
+The influence of load imbalances in time due to differences in number of iterations required by the spatial
+solver as well as spatio-temporal weak scaling is discussed.
         </div>
       </div>
     </div>
@@ -274,8 +279,8 @@ diffusion problems on complex domains.</p>
   editor = {Dickopf, Thomas and Gander, J. Martin and Halpern, Laurence and Krause, Rolf and Pavarino, F. Luca},
   pages = {371--378},
   publisher = {Springer International Publishing},
-  url = {http://dx.doi.org/10.1007/978-3-319-18827-0_37},
   title = {Parareal for Diffusion Problems with Space- and Time-Dependent Coefficients},
+  url = {http://dx.doi.org/10.1007/978-3-319-18827-0_37},
   year = {2016}
 }
 </pre>
@@ -397,7 +402,7 @@ and geometry is explored.
         <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
           <ul class="nav navbar-nav navbar-left">
             <li class="nav-item">
-              <a class="nav-link" href="/about/imprint/">
+              <a class="nav-link" href="/about/imprint.html">
                 <i class="fa fa-copyright fa-fw"></i><span class="hidden-md-down">Imprint</span></a>
             </li>
             <li class="nav-item">
@@ -429,7 +434,7 @@ and geometry is explored.
   </div>
 </footer>
 
-    <script type="text/javascript" src="/assets/custom-72e80c628063e82fc19ba9f8e3d8e6224e6dfbf3e9d2dbfe76111227f117afdb.js"></script>
+    <script type="text/javascript" src="/assets/custom-b979e939c05d4dbb9022b116b773e969fbd7fea4087bece344d1550c6b6941a4.js"></script>
 
 <!--  -->
 

@@ -6,7 +6,7 @@
   <title>PFASST</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
-  <link rel="canonical" href="http://parallelintime.org/methods/pfasst.html">
+  <link rel="canonical" href="http://parallel-in-time.org/methods/pfasst.html">
 
   <link type="text/css" rel="stylesheet" href="/assets/main-76819aa89d75930ac06ef9967c01d19269aaad5bd78e7a1bee6bb4df855d04cb.css">
   <script type="text/javascript" src="/assets/vendor/jquery-1.12.0-86a3022f12ca44acf0d7da548569f4168279fe7b115508fbe4cf4af00498eb4b.js"></script>
@@ -94,6 +94,10 @@
   
     <li >
       <a href="/methods/pita.html">PITA</a>
+    </li>
+  
+    <li >
+      <a href="/methods/paradiag.html">Diagonalization-based Parallel-in-Time Methods</a>
     </li>
   
   <li role="presentation" class="divider"></li>
@@ -189,6 +193,7 @@ under a BSD license.</p>
       <div class="col-md-12">
         <pre class="abstract">@article{EmmettMinion2012,
   author = {Emmett, Matthew and Minion, Michael L.},
+  doi = {10.2140/camcos.2012.7.105},
   journal = {Communications in Applied Mathematics and Computational Science},
   pages = {105--132},
   title = {{Toward an Efficient Parallel in Time Method for Partial Differential Equations}},
@@ -241,6 +246,7 @@ under a BSD license.</p>
   articleno = {92},
   author = {Speck, Robert and Ruprecht, Daniel and Krause, Rolf and Emmett, Matthew and Minion, Michael L. and Winkel, Mathias and Gibbon, Paul},
   booktitle = {Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis},
+  doi = {10.1109/SC.2012.6},
   location = {Salt Lake City, Utah},
   numpages = {11},
   pages = {92:1--92:11},
@@ -266,17 +272,17 @@ under a BSD license.</p>
         </div>
         <div class="modal-body">
           We present a novel space-time parallel version of the Barnes-Hut tree code PEPC using PFASST, the
-		Parallel Full Approximation Scheme in Space and Time.
-		The naive use of increasingly more processors for a fixed-size N-body problem is prone to saturate as soon as
-		the number of unknowns per core becomes too small.
-		To overcome this intrinsic strong-scaling limit, we introduce temporal parallelism on top of pepc’s existing
-		hybrid MPI/PThreads spatial decomposition.
-		Here, we use PFASST which is based on a combination of the iterations of the parallel-in-time algorithm parareal
-		with the sweeps of spectral deferred correction (SDC) schemes.
-		By combining these sweeps with multiple space-time discretization levels, PFASST relaxes the theoretical bound
-		on parallel efficiency in parareal.
-		We present results from runs on up to 262,144 cores on the IBM Blue Gene/P installation JUGENE, demonstrating
-		that the space-time parallel code provides speedup beyond the saturation of the purely space-parallel approach.
+Parallel Full Approximation Scheme in Space and Time.
+The naive use of increasingly more processors for a fixed-size N-body problem is prone to saturate as soon as
+the number of unknowns per core becomes too small.
+To overcome this intrinsic strong-scaling limit, we introduce temporal parallelism on top of pepc’s existing
+hybrid MPI/PThreads spatial decomposition.
+Here, we use PFASST which is based on a combination of the iterations of the parallel-in-time algorithm parareal
+with the sweeps of spectral deferred correction (SDC) schemes.
+By combining these sweeps with multiple space-time discretization levels, PFASST relaxes the theoretical bound
+on parallel efficiency in parareal.
+We present results from runs on up to 262,144 cores on the IBM Blue Gene/P installation JUGENE, demonstrating
+that the space-time parallel code provides speedup beyond the saturation of the purely space-parallel approach.
         </div>
       </div>
     </div>
@@ -346,7 +352,7 @@ under a BSD license.</p>
         <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
           <ul class="nav navbar-nav navbar-left">
             <li class="nav-item">
-              <a class="nav-link" href="/about/imprint/">
+              <a class="nav-link" href="/about/imprint.html">
                 <i class="fa fa-copyright fa-fw"></i><span class="hidden-md-down">Imprint</span></a>
             </li>
             <li class="nav-item">
@@ -378,7 +384,7 @@ under a BSD license.</p>
   </div>
 </footer>
 
-    <script type="text/javascript" src="/assets/custom-72e80c628063e82fc19ba9f8e3d8e6224e6dfbf3e9d2dbfe76111227f117afdb.js"></script>
+    <script type="text/javascript" src="/assets/custom-b979e939c05d4dbb9022b116b773e969fbd7fea4087bece344d1550c6b6941a4.js"></script>
 
 <!--  -->
 
